@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/skill-shaper-app",
+  "homepage": "https://machal.github.io/skill-shaper-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
