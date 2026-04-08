@@ -4,7 +4,7 @@ Interactive visualizer for modern talent archetypes (T, Pi, M, V shapes). Optimi
 
 ## Live demo
 
-[Your GitHub Pages link here](https://YOUR_USERNAME.github.io/skill-shaper-app)
+[https://machal.github.io/skill-shaper-app/](https://machal.github.io/skill-shaper-app/)
 
 ## Key features
 
@@ -29,9 +29,11 @@ npm run dev
 
 ## GitHub Pages
 
+This repo is set up for **machal** / **skill-shaper-app**. For a fork, adjust URLs and paths to match your GitHub username and repo name.
+
 1. Create a repository on GitHub (e.g. `skill-shaper-app`).
-2. Set `package.json` → `"homepage"` to `https://<YOUR_USERNAME>.github.io/<REPO>/`.
-3. In `vite.config.ts`, set `GH_PAGES_BASE` to `'/<REPO>/'` (must match the repo name).
+2. Set `package.json` → `"homepage"` to `https://<username>.github.io/<repo>/`.
+3. In `vite.config.ts`, set `GH_PAGES_BASE` to `'/<repo>/'` (must match the repo name).
 4. Push your code, then run:
 
 ```bash
