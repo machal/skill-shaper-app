@@ -1,10 +1,12 @@
-# SkillShaper Pro 2026
+# SkillShaper Pro (2026)
 
-Interactive visualizer for modern talent archetypes (T, Pi, M, V shapes). Optimized for high-end tech presentations and CEO skill-mapping.
+SkillShaper is a small, fast web app for **visualizing “talent shapes”** (breadth vs. depth) like **T‑shaped**, **Pi‑shaped**, **M‑shaped**, and **V‑shaped** skill profiles. It’s designed for founders, CEOs, and team leads who want a clean artifact for conversations, hiring, and skill planning.
 
-## Live demo
+## Open the app (live)
 
-[https://machal.github.io/skill-shaper-app/](https://machal.github.io/skill-shaper-app/)
+**Try it now:** https://machal.github.io/skill-shaper-app/
+
+[![Open SkillShaper](src/assets/hero.png)](https://machal.github.io/skill-shaper-app/)
 
 ## Key features
 
@@ -41,6 +43,15 @@ npm run deploy
 ```
 
 The site is published from the `gh-pages` branch via the `dist` folder.
+
+## Sources / further reading
+
+These shapes are widely used as **communication tools** for skill breadth/depth. If you want background context, start here:
+
+- **T‑shaped skills**: Wikipedia overview: https://en.wikipedia.org/wiki/T-shaped_skills
+- **General “skills profile” framing**: Wikipedia on competence: https://en.wikipedia.org/wiki/Competence_(human_resources)
+
+If you have a preferred canonical source for Pi/M/V/M‑shaped models in your domain, open an issue and we’ll link it here.
 
 ## Usage
 
