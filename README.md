@@ -6,7 +6,7 @@ SkillShaper is a small, fast web app for **visualizing “talent shapes”** (br
 
 **Try it now:** https://machal.github.io/skill-shaper-app/
 
-[![Open SkillShaper](src/assets/hero.png)](https://machal.github.io/skill-shaper-app/)
+[![Open SkillShaper](docs/app-screenshot.png)](https://machal.github.io/skill-shaper-app/)
 
 ## Key features
 
