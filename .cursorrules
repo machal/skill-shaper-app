@@ -1,0 +1,33 @@
+# Project: SkillShaper Pro V5
+
+## Overview
+
+SkillShaper Pro is a high-end, minimalist React-based visualization tool for "Talent Architecture" models (T-shape, M-shape, Pi-shape, V-shape). It's designed for tech founders and CEOs to visualize skill depth and breadth in the AI era.
+
+## Tech Stack
+
+- Framework: React (using Vite)
+- Styling: Tailwind CSS
+- Icons: Lucide React
+- Persistence: LocalStorage
+
+## Design Tokens (ps.one Brand)
+
+- Background (Dark Blue): #000022
+- Primary CTA (Pink): #FF00AA
+- Accent (Bright Blue): #0000FF
+- Elements: White / Transparent White
+
+## Core Features
+
+1. Interactive Columns: Drag-to-resize skill depth (5-100%).
+2. Visual Style: "Plastic" look with gradients, inner gloss, and glows.
+3. Presets: Buttons to transform layout (T, Pi, M, V shapes).
+4. Bulk Editor: Modal to define skills line-by-line.
+5. Profiles: Save/Load functionality using browser LocalStorage.
+
+## AI Instructions
+
+- Maintain the minimalist dark aesthetic.
+- Ensure touch support for mobile devices.
+- Focus on clean, modular React code within App (App.tsx in this repo).
